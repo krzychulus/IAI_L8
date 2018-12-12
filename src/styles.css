@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{background-color: beige; }
+ul{
+  background-color: aqua;
+  color:deeppink;
+}
+
+ul li{
+  display:inline;
+}
+
+
+a{background-color: gold ;
+  transition: all 2s;
+  padding:1px;
+}
+
+a:hover{
+  background-color: blueviolet;
+
+
+
+}
+body {
+  width: 100%;
+  font-size: 14px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.correct {
+  background-color: green;
+}
+
+.incorrect {
+  background-color: darkred;
+}
+
+.buttons {
+  padding: 10px 10px 10px 0;
+}
+
+
